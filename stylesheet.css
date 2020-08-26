@@ -1,0 +1,21 @@
+h1 {
+    /* 文字の色を青(#0000ff)にする */
+    color: #0000ff;
+    /* 文字の大きさを20pxにする */
+    font-size: 20px; 
+    /* 文字の種類を"Lucida Grande"にする */
+    font-family: "Lucida Grande";
+    /* 背景の色を#f3f372にしてください */
+    background-color: #f3f372;
+    /* 高さを80pxにしてください */
+    height: 80px;
+    /* 幅を200pxにしてください */
+    width: 200px;
+}
+
+.selected{
+    /* 文字の色を青(#0000ff)にする */
+    color: #0000ff;
+    /* 文字の大きさを20pxにする */
+    font-size: 20px; 
+}
